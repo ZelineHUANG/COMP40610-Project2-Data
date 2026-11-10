@@ -1,0 +1,261 @@
+year,travel_type,purpose_group,trips_thousand,nights_thousand,expenditure_eur_million
+2000,Domestic,Total,5478.0,20703.0,706.6
+2000,Domestic,Holiday,2516.0,11465.0,447.7
+2000,Domestic,Business,554.0,1672.0,109.5
+2000,Domestic,Visiting friends or relatives,1800.0,5651.0,81.3
+2000,Domestic,Other purposes,608.0,1915.0,68.1
+2000,Outbound,Total,3768.0,35544.0,3187.3
+2000,Outbound,Holiday,2226.0,23883.0,1984.5
+2000,Outbound,Business,622.0,3728.0,740.3
+2000,Outbound,Visiting friends or relatives,663.0,5123.0,297.5
+2000,Outbound,Other purposes,257.0,2810.0,165.0
+2001,Domestic,Total,6307.0,23207.0,879.9
+2001,Domestic,Holiday,2902.0,13227.0,549.7
+2001,Domestic,Business,652.0,1778.0,149.3
+2001,Domestic,Visiting friends or relatives,2063.0,5823.0,86.6
+2001,Domestic,Other purposes,690.0,2379.0,94.3
+2001,Outbound,Total,4162.0,37953.0,3549.7
+2001,Outbound,Holiday,2569.0,26786.0,2252.0
+2001,Outbound,Business,638.0,3462.0,810.5
+2001,Outbound,Visiting friends or relatives,704.0,5175.0,290.4
+2001,Outbound,Other purposes,251.0,2530.0,196.8
+2002,Domestic,Total,6452.0,22222.0,894.4
+2002,Domestic,Holiday,2819.0,12098.0,501.6
+2002,Domestic,Business,583.0,1633.0,152.9
+2002,Domestic,Visiting friends or relatives,2286.0,6120.0,97.2
+2002,Domestic,Other purposes,764.0,2371.0,142.7
+2002,Outbound,Total,4597.0,40660.0,3924.0
+2002,Outbound,Holiday,2833.0,28353.0,2565.3
+2002,Outbound,Business,609.0,3163.0,796.1
+2002,Outbound,Visiting friends or relatives,856.0,6415.0,351.2
+2002,Outbound,Other purposes,299.0,2729.0,211.4
+2003,Domestic,Total,6657.0,23616.0,970.1
+2003,Domestic,Holiday,2933.0,13009.0,575.9
+2003,Domestic,Business,619.0,1788.0,157.6
+2003,Domestic,Visiting friends or relatives,2291.0,6509.0,114.0
+2003,Domestic,Other purposes,814.0,2310.0,122.6
+2003,Outbound,Total,4974.0,43702.0,4092.2
+2003,Outbound,Holiday,3162.0,31115.0,2720.1
+2003,Outbound,Business,621.0,3421.0,792.3
+2003,Outbound,Visiting friends or relatives,876.0,6150.0,366.7
+2003,Outbound,Other purposes,315.0,3016.0,213.1
+2004,Domestic,Total,7001.0,24189.0,1037.2
+2004,Domestic,Holiday,3142.0,13506.0,624.9
+2004,Domestic,Business,624.0,1665.0,162.5
+2004,Domestic,Visiting friends or relatives,2420.0,6478.0,121.1
+2004,Domestic,Other purposes,815.0,2540.0,128.7
+2004,Outbound,Total,5465.0,46302.0,4258.2
+2004,Outbound,Holiday,3472.0,33692.0,2927.1
+2004,Outbound,Business,684.0,3430.0,741.5
+2004,Outbound,Visiting friends or relatives,985.0,6906.0,387.4
+2004,Outbound,Other purposes,324.0,2274.0,202.2
+2005,Domestic,Total,7173.0,24607.0,1164.5
+2005,Domestic,Holiday,3348.0,13676.0,706.8
+2005,Domestic,Business,770.0,1973.0,188.3
+2005,Domestic,Visiting friends or relatives,2298.0,6535.0,142.4
+2005,Domestic,Other purposes,757.0,2423.0,127.0
+2005,Outbound,Total,6189.0,51503.0,5044.1
+2005,Outbound,Holiday,3931.0,36714.0,3407.1
+2005,Outbound,Business,791.0,3870.0,840.6
+2005,Outbound,Visiting friends or relatives,1118.0,7706.0,531.7
+2005,Outbound,Other purposes,349.0,3213.0,264.7
+2006,Domestic,Total,7310.0,24203.0,1375.2
+2006,Domestic,Holiday,3827.0,14374.0,872.7
+2006,Domestic,Business,761.0,2080.0,227.3
+2006,Domestic,Visiting friends or relatives,2254.0,6168.0,181.8
+2006,Domestic,Other purposes,468.0,1581.0,93.4
+2006,Outbound,Total,6981.0,54266.0,6134.5
+2006,Outbound,Holiday,4612.0,38884.0,4363.9
+2006,Outbound,Business,783.0,4282.0,849.0
+2006,Outbound,Visiting friends or relatives,1317.0,9063.0,696.7
+2006,Outbound,Other purposes,269.0,2037.0,224.9
+2007,Domestic,Total,7942.0,26328.0,1551.0
+2007,Domestic,Holiday,4271.0,16359.0,1028.1
+2007,Domestic,Business,711.0,1771.0,194.1
+2007,Domestic,Visiting friends or relatives,2420.0,6587.0,219.7
+2007,Domestic,Other purposes,540.0,1611.0,109.1
+2007,Outbound,Total,7830.0,62236.0,7344.8
+2007,Outbound,Holiday,5448.0,47019.0,5542.4
+2007,Outbound,Business,723.0,3669.0,784.3
+2007,Outbound,Visiting friends or relatives,1356.0,9304.0,784.7
+2007,Outbound,Other purposes,303.0,2244.0,233.4
+2008,Domestic,Total,8339.0,26195.0,1546.0
+2008,Domestic,Holiday,4398.0,15654.0,1027.9
+2008,Domestic,Business,658.0,1573.0,162.8
+2008,Domestic,Visiting friends or relatives,2656.0,6969.0,215.7
+2008,Domestic,Other purposes,627.0,1999.0,139.6
+2008,Outbound,Total,8042.0,63498.0,7187.0
+2008,Outbound,Holiday,5557.0,46229.0,5282.7
+2008,Outbound,Business,668.0,4133.0,785.7
+2008,Outbound,Visiting friends or relatives,1455.0,10400.0,840.8
+2008,Outbound,Other purposes,362.0,2736.0,277.8
+2009,Domestic,Total,8340.0,26027.0,1389.8
+2009,Domestic,Holiday,4037.0,14320.0,843.3
+2009,Domestic,Business,600.0,1437.0,136.2
+2009,Domestic,Visiting friends or relatives,2712.0,6868.0,171.1
+2009,Domestic,Other purposes,991.0,3402.0,239.2
+2009,Outbound,Total,7292.0,55667.0,5786.9
+2009,Outbound,Holiday,4499.0,37869.0,3949.8
+2009,Outbound,Business,638.0,2961.0,649.0
+2009,Outbound,Visiting friends or relatives,1523.0,10358.0,732.9
+2009,Outbound,Other purposes,632.0,4479.0,455.2
+2010,Domestic,Total,7300.0,22540.0,1560.5
+2010,Domestic,Holiday,3978.0,13981.0,971.9
+2010,Domestic,Business,370.0,672.0,85.9
+2010,Domestic,Visiting friends or relatives,1997.0,5346.0,270.5
+2010,Domestic,Other purposes,955.0,2541.0,232.2
+2010,Outbound,Total,6917.0,57473.0,5895.7
+2010,Outbound,Holiday,3964.0,37657.0,3812.9
+2010,Outbound,Business,621.0,2495.0,628.5
+2010,Outbound,Visiting friends or relatives,1592.0,12415.0,872.8
+2010,Outbound,Other purposes,740.0,4906.0,581.5
+2011,Domestic,Total,7169.0,21628.0,1415.9
+2011,Domestic,Holiday,3696.0,12972.0,864.9
+2011,Domestic,Business,350.0,586.0,76.9
+2011,Domestic,Visiting friends or relatives,2231.0,5817.0,265.9
+2011,Domestic,Other purposes,892.0,2253.0,208.2
+2011,Outbound,Total,6514.0,54014.0,5408.1
+2011,Outbound,Holiday,3433.0,32183.0,3148.6
+2011,Outbound,Business,651.0,2714.0,744.8
+2011,Outbound,Visiting friends or relatives,1662.0,13462.0,938.4
+2011,Outbound,Other purposes,768.0,5655.0,576.3
+2012,Domestic,Total,8291.0,23703.0,1514.2
+2012,Domestic,Holiday,4036.0,12771.0,876.2
+2012,Domestic,Business,350.0,693.0,80.5
+2012,Domestic,Visiting friends or relatives,2765.0,7033.0,289.6
+2012,Domestic,Other purposes,1140.0,3206.0,267.9
+2012,Outbound,Total,6623.0,53112.0,5342.5
+2012,Outbound,Holiday,3817.0,34462.0,3371.6
+2012,Outbound,Business,584.0,2199.0,631.4
+2012,Outbound,Visiting friends or relatives,1472.0,10502.0,800.9
+2012,Outbound,Other purposes,750.0,5949.0,538.6
+2013,Domestic,Total,8413.0,24195.0,1533.0
+2013,Domestic,Holiday,4073.0,13986.0,947.2
+2013,Domestic,Business,364.0,616.0,84.2
+2013,Domestic,Visiting friends or relatives,2988.0,7095.0,284.8
+2013,Domestic,Other purposes,988.0,2498.0,216.8
+2013,Outbound,Total,6575.0,51985.0,5384.2
+2013,Outbound,Holiday,3659.0,31726.0,3192.8
+2013,Outbound,Business,652.0,2394.0,812.4
+2013,Outbound,Visiting friends or relatives,1624.0,12141.0,888.0
+2013,Outbound,Other purposes,640.0,5724.0,491.0
+2014,Domestic,Total,8991.0,26086.0,1713.5
+2014,Domestic,Holiday,4436.0,14424.0,992.8
+2014,Domestic,Business,453.0,904.0,110.3
+2014,Domestic,Visiting friends or relatives,2918.0,7335.0,327.0
+2014,Domestic,Other purposes,1184.0,3423.0,283.4
+2014,Outbound,Total,6677.0,53652.0,5590.2
+2014,Outbound,Holiday,3675.0,33095.0,3391.1
+2014,Outbound,Business,729.0,2980.0,812.6
+2014,Outbound,Visiting friends or relatives,1620.0,12763.0,912.1
+2014,Outbound,Other purposes,653.0,4814.0,474.4
+2015,Domestic,Total,9125.0,25267.0,1725.3
+2015,Domestic,Holiday,4658.0,14751.0,1070.4
+2015,Domestic,Business,407.0,672.0,98.0
+2015,Domestic,Visiting friends or relatives,2921.0,6877.0,296.5
+2015,Domestic,Other purposes,1139.0,2967.0,260.4
+2015,Outbound,Total,7094.0,53515.0,6022.1
+2015,Outbound,Holiday,4219.0,35276.0,3836.3
+2015,Outbound,Business,767.0,2905.0,880.6
+2015,Outbound,Visiting friends or relatives,1430.0,10298.0,759.7
+2015,Outbound,Other purposes,678.0,5036.0,545.5
+2016,Domestic,Total,9359.0,25589.0,1797.7
+2016,Domestic,Holiday,4870.0,15077.0,1135.8
+2016,Domestic,Business,431.0,764.0,106.3
+2016,Domestic,Visiting friends or relatives,3045.0,7238.0,297.0
+2016,Domestic,Other purposes,1013.0,2510.0,258.6
+2016,Outbound,Total,7644.0,56748.0,6539.0
+2016,Outbound,Holiday,4244.0,34957.0,3926.8
+2016,Outbound,Business,897.0,4065.0,1094.1
+2016,Outbound,Visiting friends or relatives,1747.0,11841.0,893.8
+2016,Outbound,Other purposes,756.0,5885.0,624.3
+2017,Domestic,Total,9626.0,25539.0,1879.1
+2017,Domestic,Holiday,4886.0,13844.0,1129.2
+2017,Domestic,Business,426.0,745.0,123.3
+2017,Domestic,Visiting friends or relatives,3096.0,7689.0,353.1
+2017,Domestic,Other purposes,1218.0,3261.0,273.5
+2017,Outbound,Total,8171.0,57698.0,6890.7
+2017,Outbound,Holiday,4912.0,36691.0,4337.6
+2017,Outbound,Business,753.0,2705.0,913.8
+2017,Outbound,Visiting friends or relatives,1730.0,11708.0,910.8
+2017,Outbound,Other purposes,776.0,6594.0,728.5
+2018,Domestic,Total,10919.0,28393.0,2006.0
+2018,Domestic,Holiday,5323.0,15058.0,1232.6
+2018,Domestic,Business,473.0,779.0,116.9
+2018,Domestic,Visiting friends or relatives,3759.0,9000.0,352.9
+2018,Domestic,Other purposes,1364.0,3556.0,303.6
+2018,Outbound,Total,8643.0,60623.0,7434.6
+2018,Outbound,Holiday,5155.0,40067.0,4892.9
+2018,Outbound,Business,854.0,3129.0,1055.6
+2018,Outbound,Visiting friends or relatives,1884.0,12954.0,963.6
+2018,Outbound,Other purposes,750.0,4473.0,522.5
+2019,Domestic,Total,11621.0,29469.0,2146.6
+2019,Domestic,Holiday,5819.0,16003.0,1335.9
+2019,Domestic,Business,551.0,879.0,124.9
+2019,Domestic,Visiting friends or relatives,3847.0,8836.0,371.8
+2019,Domestic,Other purposes,1404.0,3751.0,314.0
+2019,Outbound,Total,9350.0,66927.0,8252.6
+2019,Outbound,Holiday,5566.0,43783.0,5343.0
+2019,Outbound,Business,892.0,3344.0,1087.6
+2019,Outbound,Visiting friends or relatives,1936.0,12601.0,1028.5
+2019,Outbound,Other purposes,956.0,7199.0,793.5
+2020,Domestic,Total,7721.0,23518.0,1554.0
+2020,Domestic,Holiday,4155.0,13351.0,1128.0
+2020,Domestic,Business,243.0,595.0,62.0
+2020,Domestic,Visiting friends or relatives,2609.0,7449.0,230.0
+2020,Domestic,Other purposes,714.0,2123.0,134.0
+2020,Outbound,Total,2365.0,15597.0,2122.0
+2020,Outbound,Holiday,,,
+2020,Outbound,Business,,,
+2020,Outbound,Visiting friends or relatives,,,
+2020,Outbound,Other purposes,,,
+2021,Domestic,Total,5663.0,17886.0,1291.0
+2021,Domestic,Holiday,3164.0,10835.0,998.0
+2021,Domestic,Business,165.0,368.0,41.0
+2021,Domestic,Visiting friends or relatives,1880.0,5231.0,176.0
+2021,Domestic,Other purposes,454.0,1452.0,76.0
+2021,Outbound,Total,2276.0,17443.0,1958.0
+2021,Outbound,Holiday,1080.0,7156.0,998.0
+2021,Outbound,Business,171.0,1151.0,177.0
+2021,Outbound,Visiting friends or relatives,742.0,5187.0,519.0
+2021,Outbound,Other purposes,283.0,3949.0,264.0
+2022,Domestic,Total,13274.0,34236.0,2930.0
+2022,Domestic,Holiday,6620.0,18607.0,1859.0
+2022,Domestic,Business,528.0,1150.0,172.0
+2022,Domestic,Visiting friends or relatives,4558.0,10407.0,504.0
+2022,Domestic,Other purposes,1568.0,4072.0,395.0
+2022,Outbound,Total,8546.0,61205.0,8518.0
+2022,Outbound,Holiday,5385.0,40147.0,5835.0
+2022,Outbound,Business,502.0,2125.0,841.0
+2022,Outbound,Visiting friends or relatives,2082.0,13799.0,1473.0
+2022,Outbound,Other purposes,577.0,5134.0,369.0
+2023,Domestic,Total,14309.0,33978.0,3087.4
+2023,Domestic,Holiday,6376.0,16164.0,1892.9
+2023,Domestic,Business,687.0,1059.0,183.3
+2023,Domestic,Visiting friends or relatives,5728.0,13553.0,694.4
+2023,Domestic,Other purposes,1518.0,3202.0,316.8
+2023,Outbound,Total,12633.0,79923.0,11429.4
+2023,Outbound,Holiday,7271.0,47660.0,7241.3
+2023,Outbound,Business,983.0,3221.0,1293.6
+2023,Outbound,Visiting friends or relatives,3530.0,24469.0,2261.6
+2023,Outbound,Other purposes,849.0,4573.0,632.9
+2024,Domestic,Total,16571.0,36747.0,3570.5
+2024,Domestic,Holiday,7120.0,16758.0,2143.9
+2024,Domestic,Business,921.0,1267.0,217.0
+2024,Domestic,Visiting friends or relatives,6911.0,15013.0,810.0
+2024,Domestic,Other purposes,1619.0,3709.0,399.6
+2024,Outbound,Total,13680.0,81204.0,11278.3
+2024,Outbound,Holiday,8270.0,53505.0,7573.3
+2024,Outbound,Business,974.0,3574.0,976.4
+2024,Outbound,Visiting friends or relatives,3467.0,19579.0,2088.0
+2024,Outbound,Other purposes,969.0,4546.0,640.6
+2025,Domestic,Total,15283.0,33435.0,3578.0
+2025,Domestic,Holiday,7036.0,16314.0,2230.2
+2025,Domestic,Business,897.0,1477.0,256.3
+2025,Domestic,Visiting friends or relatives,5539.0,11489.0,640.2
+2025,Domestic,Other purposes,1811.0,4155.0,451.3
+2025,Outbound,Total,15140.0,82850.0,11960.9
+2025,Outbound,Holiday,9110.0,53721.0,7812.5
+2025,Outbound,Business,1286.0,4180.0,1388.2
+2025,Outbound,Visiting friends or relatives,3645.0,19605.0,2048.5
+2025,Outbound,Other purposes,1099.0,5344.0,711.7
